@@ -19,7 +19,6 @@
     }
   },
   "icons": {
-    "48": "./icon.jpg",
-    "96": "./icon.jpg"
+    "16": "./icon.jpg"
   }
 }
