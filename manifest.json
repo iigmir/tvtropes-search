@@ -19,7 +19,7 @@
     }
   },
   "icons": {
-    "48": "./favicon.ico",
-    "96": "./favicon.ico"
+    "48": "./icon.jpg",
+    "96": "./icon.jpg"
   }
 }
