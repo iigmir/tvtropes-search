@@ -10,7 +10,7 @@
   },
   "chrome_settings_overrides": {
     "search_provider": {
-      "name": "Discogs",
+      "name": "TV Tropes",
       "search_url": "https://tvtropes.org/pmwiki/search_result.php/?q={searchTerms}",
       "keyword": "disc",
       "favicon_url": "https://static.tvtropes.org/img/icons/favicon.ico",
