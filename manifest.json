@@ -2,10 +2,10 @@
   "manifest_version": 2,
   "name": "TV Tropes Search",
   "description": "Search on TV Tropes, a trope database and life destroyer.",
-  "version": "1.0",
+  "version": "1.1",
   "applications": {
     "gecko": {
-      "strict_min_version": "70.0"
+      "strict_min_version": "60.0"
     }
   },
   "chrome_settings_overrides": {
