@@ -3,9 +3,9 @@
   "name": "TV Tropes Search",
   "description": "Search on TV Tropes, a trope database and life destroyer.",
   "version": "1.2",
-  "applications": {
+  "browser_specific_settings": {
     "gecko": {
-      "strict_min_version": "60.0"
+      "strict_min_version": "65.0"
     }
   },
   "chrome_settings_overrides": {
