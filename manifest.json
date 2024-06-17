@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "TV Tropes Search",
   "description": "Search on TV Tropes, a trope database and life destroyer.",
-  "version": "1.1",
+  "version": "1.2",
   "applications": {
     "gecko": {
       "strict_min_version": "60.0"
@@ -11,7 +11,7 @@
   "chrome_settings_overrides": {
     "search_provider": {
       "name": "TV Tropes",
-      "search_url": "https://tvtropes.org/pmwiki/search_result.php/?q={searchTerms}",
+      "search_url": "https://tvtropes.org/pmwiki/search_result.php?q={searchTerms}",
       "keyword": "disc",
       "favicon_url": "https://static.tvtropes.org/img/icons/favicon.ico",
       "is_default": false,
